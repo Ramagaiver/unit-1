@@ -1,0 +1,14 @@
+/* Created by Chanodom Tannarat Spring 2026 */
+h1 {
+    font-size: 30;
+}
+
+.initialClass {
+    text-decoration: underline !important; 
+    color:darkgoldenrod
+}
+
+#secondaryID {
+    text-align: center;
+    text-decoration: none;
+}
