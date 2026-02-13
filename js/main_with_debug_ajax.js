@@ -161,6 +161,7 @@ function jsAjax(){
 function callback(response){
 	console.log(JSON.stringify(response));
 }
+//////// Practice following Chapter 03, disregard ////////
 */
 
 // Handles loading the MegaCities.geojson to index
